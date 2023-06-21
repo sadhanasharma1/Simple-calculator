@@ -7,4 +7,8 @@ The interface of my calculator looks like this:
 ![image](https://user-images.githubusercontent.com/117315849/208869525-db496355-a9c2-4602-8c75-3204cd576435.png)
 
 
+link to my project:
+https://sadhanasharma1.github.io/Simple-calculator/
+
+
 
